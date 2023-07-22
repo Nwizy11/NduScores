@@ -11,7 +11,7 @@
             class="w-[30px] h-[30px]"
           />
           <p class="ml-1 text-sm leading-none">
-            N125,000 welcome bonus for safe and secure betting!*
+            N125,000 welcome bonus for safe and secure betting!* This is testing site 
           </p>
         </div>
         <div>
