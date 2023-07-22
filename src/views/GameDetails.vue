@@ -1236,15 +1236,15 @@ setInterval(() => {
         </p>
         <p class="text-center text-11px">
           Your live football score for Liverpool vs Manchester City in the
-          Premier League from LiveScores.com, covering football, cricket,
+          Premier League from NduScores.com, covering football, cricket,
           tennie, basketball and hockey livescores.
         </p>
       </div>
       <div class="pb-1">
         <p class="text-11px flex justify-center items-center gap-1">
           <span> <i class="fa fa-copyright"></i></span>
-          <span>1998-2022</span>
-          <span>LiveScore</span>
+          <span>2023</span>
+          <span>NduScore - Ndubuisi Nwiziogoede</span>
         </p>
       </div>
       <div class="mx-2.5 flex flex-wrap justify-center text-n-gray">
