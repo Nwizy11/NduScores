@@ -28,7 +28,7 @@ const activeTab = ref("Football");
     </div>
 
     <div>
-      <p class="text-xl font-bold">LiveScore</p>
+      <p class="text-xl font-bold">NduScores</p>
     </div>
 
     <div>
